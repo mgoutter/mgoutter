@@ -3,8 +3,12 @@
   <br><br>
   <a href="https://contra.com/maxence_goutteratel"><img alt="Hire Me on Contra" src="https://contra.com/static/embed/media/hiremeoncontra-light.png" srcset="https://contra.com/static/embed/media/hiremeoncontra-light.png 1x, https://contra.com/static/embed/media/hiremeoncontra-light@2x.png 2x" style="border-width: 0px;"></a>
   <br><br>
-  Back-End Developer and IT Tech @ frais-livre.fr
-  <br><br>
+Software Developer and IT Tech @ frais-livre.fr
+Owner @ 7d-esports.gg
+> My eSport structure, we compete in CS2, OW2 and LoL
+Owner surf.7d-esports.gg
+> A Counter-Strike 2 full featured Competitive Surfing platform!
+<br><br>
   
   **- My websites -**
   <br>[newmax.dev](https://newmax.dev)
