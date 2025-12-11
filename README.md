@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Profile Banner" src="https://raw.githubusercontent.com/NewMaxT/NewMaxT/main/gif.gif" width="100%">
+  <img alt="Profile Banner" src="https://raw.githubusercontent.com/NewMaxT/NewMaxT/main/gif.gif" width="70%">
   
   <h1>👋 Hi, I'm Maxence</h1>
   
@@ -30,12 +30,12 @@ I'm a passionate software developer with expertise in full-stack development, ga
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-newmax.dev-FF6B6B?style=for-the-badge)](https://newmax.dev)
-  [![API](https://img.shields.io/badge/API-api.newmax.dev-4ECDC4?style=for-the-badge)](https://api.newmax.dev)
-  [![Apps](https://img.shields.io/badge/Apps-apps.newmax.dev-45B7D1?style=for-the-badge)](https://apps.newmax.dev)
-  [![Status](https://img.shields.io/badge/Status-status.newmax.dev-96CEB4?style=for-the-badge)](https://status.newmax.dev)
-  [![Docs](https://img.shields.io/badge/Docs-docs.newmax.dev-FFEAA7?style=for-the-badge)](https://docs.newmax.dev)
-  [![Files](https://img.shields.io/badge/Files-files.newmax.dev-FDCB6E?style=for-the-badge)](https://files.newmax.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-newmax.dev-FF6B6B?style=for-the-badge)](TO BE REPLACED)
+  [![API](https://img.shields.io/badge/API-api.newmax.dev-4ECDC4?style=for-the-badge)](TO BE REPLACED)
+  [![Apps](https://img.shields.io/badge/Apps-apps.newmax.dev-45B7D1?style=for-the-badge)](TO BE REPLACED)
+  [![Status](https://img.shields.io/badge/Status-status.newmax.dev-96CEB4?style=for-the-badge)](TO BE REPLACED)
+  [![Docs](https://img.shields.io/badge/Docs-docs.newmax.dev-FFEAA7?style=for-the-badge)](TO BE REPLACED)
+  [![Files](https://img.shields.io/badge/Files-files.newmax.dev-FDCB6E?style=for-the-badge)](TO BE REPLACED)
   
 </div>
 
@@ -43,37 +43,27 @@ I'm a passionate software developer with expertise in full-stack development, ga
 
 ### Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### Frontend & Backend
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Drogon](https://img.shields.io/badge/Drogon-Web%20Framework-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-CI%2FCD%20Security-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NewMaxT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewMaxT&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NewMaxT&theme=tokyonight)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=NewMaxT&style=flat-square&color=blueviolet)
-  
-</div>
+![SDL2](https://img.shields.io/badge/SDL2-Library-FF6B6B?style=for-the-badge&logo=sdl&logoColor=white)
 
 ## 🎵 Currently Listening
 
@@ -88,7 +78,5 @@ I'm a passionate software developer with expertise in full-stack development, ga
 ---
 
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/NewMaxT/NewMaxT/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
+  ![Profile Views](https://komarev.com/ghpvc/?username=NewMaxT&style=flat-square&color=blueviolet)  
 </div>
