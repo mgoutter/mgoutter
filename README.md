@@ -30,12 +30,12 @@ I'm a passionate software developer with expertise in full-stack development, ga
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-newmax.dev-FF6B6B?style=for-the-badge)](TO BE REPLACED)
-  [![API](https://img.shields.io/badge/API-api.newmax.dev-4ECDC4?style=for-the-badge)](TO BE REPLACED)
-  [![Apps](https://img.shields.io/badge/Apps-apps.newmax.dev-45B7D1?style=for-the-badge)](TO BE REPLACED)
-  [![Status](https://img.shields.io/badge/Status-status.newmax.dev-96CEB4?style=for-the-badge)](TO BE REPLACED)
-  [![Docs](https://img.shields.io/badge/Docs-docs.newmax.dev-FFEAA7?style=for-the-badge)](TO BE REPLACED)
-  [![Files](https://img.shields.io/badge/Files-files.newmax.dev-FDCB6E?style=for-the-badge)](TO BE REPLACED)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-mgoutter.fr-FF6B6B?style=for-the-badge)](mgoutter.fr)
+  [![API](https://img.shields.io/badge/API-api.mgoutter.fr-4ECDC4?style=for-the-badge)](api.mgoutter.fr)
+  [![Apps](https://img.shields.io/badge/Apps-apps.mgoutter.fr-45B7D1?style=for-the-badge)](apps.mgoutter.fr)
+  [![Status](https://img.shields.io/badge/Status-status.mgoutter.fr-96CEB4?style=for-the-badge)](status.mgoutter.fr)
+  [![Docs](https://img.shields.io/badge/Docs-docs.mgoutter.fr-FFEAA7?style=for-the-badge)](docs.mgoutter.fr)
+  [![Files](https://img.shields.io/badge/Files-files.mgoutter.fr-FDCB6E?style=for-the-badge)](files.mgoutter.fr)
   
 </div>
 
@@ -77,6 +77,4 @@ I'm a passionate software developer with expertise in full-stack development, ga
 
 ---
 
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=NewMaxT&style=flat-square&color=blueviolet)  
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=NewMaxT&style=flat-square&color=blueviolet)  
