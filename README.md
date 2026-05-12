@@ -30,12 +30,12 @@ I'm a passionate software developer with expertise in full-stack development, ga
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-mgoutter.fr-FF6B6B?style=for-the-badge)](mgoutter.fr)
-  [![API](https://img.shields.io/badge/API-api.mgoutter.fr-4ECDC4?style=for-the-badge)](api.mgoutter.fr)
-  [![Apps](https://img.shields.io/badge/Apps-apps.mgoutter.fr-45B7D1?style=for-the-badge)](apps.mgoutter.fr)
-  [![Status](https://img.shields.io/badge/Status-status.mgoutter.fr-96CEB4?style=for-the-badge)](status.mgoutter.fr)
-  [![Docs](https://img.shields.io/badge/Docs-docs.mgoutter.fr-FFEAA7?style=for-the-badge)](docs.mgoutter.fr)
-  [![Files](https://img.shields.io/badge/Files-files.mgoutter.fr-FDCB6E?style=for-the-badge)](files.mgoutter.fr)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-mgoutter.fr-FF6B6B?style=for-the-badge)](https://mgoutter.fr)
+  [![API](https://img.shields.io/badge/API-api.mgoutter.fr-4ECDC4?style=for-the-badge)](https://api.mgoutter.fr)
+  [![Apps](https://img.shields.io/badge/Apps-apps.mgoutter.fr-45B7D1?style=for-the-badge)](https://apps.mgoutter.fr)
+  [![Status](https://img.shields.io/badge/Status-status.mgoutter.fr-96CEB4?style=for-the-badge)](https://status.mgoutter.fr)
+  [![Docs](https://img.shields.io/badge/Docs-docs.mgoutter.fr-FFEAA7?style=for-the-badge)](https://docs.mgoutter.fr)
+  [![Files](https://img.shields.io/badge/Files-files.mgoutter.fr-FDCB6E?style=for-the-badge)](https://files.mgoutter.fr)
   
 </div>
 
